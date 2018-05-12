@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37347'
     url: http://www.gutenberg.org/2009/agents/37347
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34942#Scamping-Tricks-and-Odd-KnowledgeOccasionally-Practised-upon-Public-Works
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2011-01-13'
 gutenberg_type: Text

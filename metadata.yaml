@@ -1,0 +1,29 @@
+_repo: Scamping-Tricks-and-Odd-KnowledgeOccasionally-Practised-upon-Public-Works_34942
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34942-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Newman, John
+    gutenberg_agent_id: '37347'
+    url: http://www.gutenberg.org/2009/agents/37347
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2011-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Public works -- Finance'
+- !lcsh 'Bridges -- Design and construction'
+- !lcsh 'Construction industry -- Corrupt practices'
+- !lcsh 'Fraud'
+- !lcsh 'Building -- Estimates'
+- !lcc 'TA'
+title: Scamping Tricks and Odd Knowledge Occasionally Practised Upon Public Works
+url: http://www.gutenberg.org/ebooks/34942
